@@ -12,7 +12,7 @@
 * **Programming Languages:** Java, Python, C, SQL
 * **Web Development:** HTML, CSS, JavaScript
 * **Frameworks & Tools:** MySQL, Git, GitHub, ServiceNow Platform
-* **Other Skills:** Data Analysis, REST APIs, Problem Solving
+* **Other Skills:** Data Analysis, Problem Solving
 
 ---
 
