@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Suresh Reddy Mallidi
+# Hi there 👋, I'm Mallidi Sai Suresh Reddy
 
 🎓 **B.Tech Information Technology (2025)** | Pragati Engineering College
 💻 Passionate about **Software Development, Data Analysis, and AI/ML**
-🚀 Skilled in **Java, Python, SQL, MySQL, HTML, CSS, JavaScript, and ServiceNow**
+🚀 Skilled in **Java, Python, SQL, MySQL, MS SQL Server, HTML, CSS, Tableau, JavaScript, and ServiceNow**
 📊 Hands-on with **Data Analysis and Database Management**
 
 ---
