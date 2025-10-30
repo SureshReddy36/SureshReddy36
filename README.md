@@ -25,20 +25,25 @@
 
 ---
 
-## 🎓 Experience & Certifications
+## 🏅 Certifications
 
 * ServiceNow Certified Application Developer (2024)
 * ServiceNow Certified System Administrator (2024)
+* Introduction to Programming in Java – NPTEL Course Jul 2023 – Oct 2023
+* HackerRank SQL (Basic) Certificate Jul 2023
+
+---
+## 🎓 Internships
+
 * Google AI-ML Virtual Internship (2024)
 * Salesforce Developer Virtual Internship (2023)
-
 
 
 ---
 
 ## 📫 Connect with Me
 
-* 📧 Email: [sureshreddymallidi262@gmail.com](mailto:sureshreddymallidi262@gmail.com)
+* 📧 Email: [sureshreddymallidi262@gmail.com](mailto:worksbysuresh@gmail.com)
 * 💼 LinkedIn: [linkedin.com/in/mallidi-sai-suresh-reddy](https://linkedin.com/in/mallidi-sai-suresh-reddy)
 * 🖥️ Portfolio: [worksbysuresh.netlify.app](https://worksbysuresh.netlify.app)
 * 🐙 GitHub: [github.com/SureshReddy36](https://github.com/SureshReddy36)
